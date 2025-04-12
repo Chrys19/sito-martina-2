@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.martinarocchetti.it/sitemap.xml
+Sitemap: https://martinarocchetti.netlify.app/sitemap.xml
